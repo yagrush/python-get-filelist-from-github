@@ -31,6 +31,7 @@ pip install -r requirements.txt
 python -m src
 ```
  ↓
+ 
 このプロジェクトのルートディレクトリにディレクトリとファイルが保存されていればOK
 
 ## 使用ライブラリ
