@@ -1,0 +1,5 @@
+github_token: ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+target_github_repository:
+  author: yagrush
+  name: serverless-scheduled-batch-by-terraform
+  target_dir_path: lambda/foo/upload_test_files
