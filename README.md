@@ -32,3 +32,6 @@ python -m src
 ```
  ↓
 このプロジェクトのルートディレクトリにディレクトリとファイルが保存されていればOK
+
+## 使用ライブラリ
+- [PyGithub](https://github.com/PyGithub/PyGithub)
