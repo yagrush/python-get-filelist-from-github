@@ -1,9 +1,8 @@
 # PythonでGithubのリポジトリの特定のディレクトリ直下にあるファイルを全て取得してローカルに保存する
 
 ## 試した環境
-- MacbookAir M3
-
-Windowsだとそのままでは動作しないかもです
+- MacbookAir M3（Windowsだとそのままでは動作しないかもです）
+- Python3.9↑
 
 ## 試し方
 
